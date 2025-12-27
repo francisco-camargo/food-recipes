@@ -2,6 +2,7 @@
 
 ## Main Dishes
 
+- [Salmon](salmon/README.md)
 - [Steak and Mushrooms](steak/README.md)
 
 ## Dessert
