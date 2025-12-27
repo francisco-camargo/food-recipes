@@ -9,6 +9,10 @@
 - [Salmon](salmon/README.md)
 - [Steak and Mushrooms](steak/README.md)
 
+## Sides
+
+- [Asparagus](asparagus/README.md)
+
 ## Dessert
 
 - [Ensalada de Frutas de Yeya](ensalada_de_frutas/README.md)
