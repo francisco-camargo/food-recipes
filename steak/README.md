@@ -45,6 +45,15 @@
 - Add freshly cracked black pepper after resting
 - Optional: top with flaky sea salt
 
+### Mushrooms
+
+- Keep the same pan with leftover butter, garlic, and thyme over medium heat
+- Add chopped mushrooms to the pan
+- Season with a pinch of salt
+- Sauté for 4-5min, stirring occasionally, until mushrooms are golden brown and have released their moisture
+- If pan is too dry, add an extra 1/2 tablespoon of butter
+- Serve mushrooms alongside or on top of the rested steak
+
 ## Doneness Guide (Internal Temp)
 
 - Rare: 120-125°F
