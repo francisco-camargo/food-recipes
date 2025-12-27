@@ -1,6 +1,6 @@
 # Galletas de Mantequilla con Bocadillo de Elida
 
-![1742273638497](image/README/1742273638497.png)
+![1742273638497](1742273638497.png)
 
 ## Ingredients
 
