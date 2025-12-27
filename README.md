@@ -1,5 +1,9 @@
 # Food Recipes
 
+## Appetizers
+
+- [Guacamole](guacamole/README.md)
+
 ## Main Dishes
 
 - [Salmon](salmon/README.md)
