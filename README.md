@@ -7,6 +7,7 @@
 ## Main Dishes
 
 - [Salmon](salmon/README.md)
+- [Scallops](scallops/README.md)
 - [Steak and Mushrooms](steak/README.md)
 
 ## Sides
