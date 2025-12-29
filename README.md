@@ -18,4 +18,5 @@
 ## Dessert
 
 - [Ensalada de Frutas de Yeya](ensalada_de_frutas/README.md)
+- [French Toast](french_toast/README.md)
 - [Galletas de Elida](galletas_de_elida/README.md)
