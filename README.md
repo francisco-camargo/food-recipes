@@ -12,6 +12,7 @@
 ## Sides
 
 - [Asparagus](asparagus/README.md)
+- [Instant Rice](instant_rice/README.md)
 
 ## Dessert
 
