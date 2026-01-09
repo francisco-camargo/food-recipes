@@ -24,6 +24,7 @@
 - Season both sides generously with salt and pepper
 - Sprinkle dill over the top of salmon
 - Place lemon slices on top and around the salmon
+- Fold salmon as necessary so all parts cook evenly
 
 ### Broil
 
@@ -31,6 +32,12 @@
 - Broil for 7-8min for medium doneness (internal temp 125-130°F)
 - Salmon should be opaque and flake easily with a fork
 - For well-done, broil for 9-10min (internal temp 145°F)
+
+### Alternative: Bake
+
+- Position rack in the middle
+- Preheat to bake 475°F
+- Bake for 9min
 
 ### Serve
 
