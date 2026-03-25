@@ -36,8 +36,8 @@
 ### Alternative: Bake
 
 - Position rack in the middle
-- Preheat to bake 475°F
-- Bake for 9min
+- Preheat to bake 425°F
+- Bake for 10min
 
 ### Serve
 
